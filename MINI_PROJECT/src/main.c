@@ -6,7 +6,7 @@
 #include "seg.h"
 #include "kpm.h"
 #include "adc.h"
-#include "rtc.h"
+#include "rtc_default.h"
 
 // EINT0 channel no 
 #define EINT0_CH 14
